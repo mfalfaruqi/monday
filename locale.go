@@ -48,6 +48,7 @@ const (
 	LocaleLtLT = "lt_LT" // Lithuanian (Lithuania)
 	LocaleThTH = "th_TH" // Thai (Thailand)
 	LocaleUzUZ = "uz_UZ" // Uzbek (Uzbekistan)
+	LocaleArSA = "ar_SA" // Arabic (Saudi Arabia)
 )
 
 // ListLocales returns all locales supported by the package.
